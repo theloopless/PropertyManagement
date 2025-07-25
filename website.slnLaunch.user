@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "website.client\\website.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Chrome)"
+      },
+      {
+        "Path": "website.Server\\website.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      }
+    ]
+  }
+]
